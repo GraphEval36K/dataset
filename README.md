@@ -15,7 +15,7 @@ Within these folders, you'll find datasets classified into different types such 
 
 The files are stored in `JSONL` format, where each line is a valid `JSON` object. Each JSON object in the file represents a graph, containing information about nodes, edges, and other graph properties. This format is lightweight and scalable, making it suitable for handling large datasets.
 
-### Example JSONL Entry
+### Example Data Entry
 Here's an example of an entry from one of the `dense.jsonl` files:
 ```json
 {
